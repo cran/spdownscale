@@ -1,0 +1,17 @@
+d16fef1659fd6438e0299a74e588f3e4 *DESCRIPTION
+eca0a6e0db1eb3142d58686131d4259d *NAMESPACE
+6b4e979a9a76ffe6362656f6e645abe9 *R/Paracal.R
+131c119b9c74d15dd4457191ea9363d1 *R/ResVal.R
+33275f21e8976cf28b5fa067d0e81d41 *R/data_model.R
+c195057290113abae783a0f82c8adbdc *R/data_model_future.R
+b9ded8e3dfb98fa827aa9d46f6fefc71 *R/data_observation.R
+a585b5c3304e91951e23bdc73abfb521 *R/downscale.R
+a15459e6cc4997a1dca3910927c25c1a *data/data_model.rda
+ba6c26c4106b9d4527adc45a7938c490 *data/data_model_future.rda
+d10135539c08d60f8160a8f2e3a8a800 *data/data_observation.rda
+2c3e84f0705ab0f7a2579eea9e658bf8 *man/ParaCal.Rd
+4f7df02c2b2e1e37d0c6cfe2503d9e79 *man/ResVal.Rd
+9444e70e2e7bf82f861d5d37450e6c73 *man/data_model.Rd
+b4b1cdcab46aad9d65e19c64a4530106 *man/data_model_future.Rd
+a5baa4a5cb6222da76e4b907b0d3ed64 *man/data_observation.Rd
+410a9ff65c1750f1e7c09babc973d290 *man/downscale.Rd
